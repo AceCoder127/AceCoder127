@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AceCoder127
-- 🌱 I’m currently learning javascript and php.
-- 📫 You can reach me on discord ace#1036.
-- I haven't updated this in years
+- 🌱 I’m currently learning C++.
+- 📫 You can reach me on discord at ace127.
+- I enjoy Game Jams
